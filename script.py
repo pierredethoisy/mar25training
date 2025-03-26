@@ -27,3 +27,6 @@ def fetch_secrets():
 
 # Call the function to fetch secrets
 fetch_secrets()
+
+API_KEY = "ksdfhjgkejhgekr235346dfdfshtb3254632323432536DFGgdfgdhfdf11234ZER3432"
+
